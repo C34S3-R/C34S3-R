@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO THERE , WELCOME TO MY PROFILE
 
 <!--
 **C34S3-R/C34S3-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
