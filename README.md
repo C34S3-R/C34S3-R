@@ -1,10 +1,10 @@
-## YOU VISITED??.....WELCOME TO MY PROFILE
+## 
 
 ---
   
 # About Me:
-I'm a tech enthusiast with the intention of returning back to the community through the use of technology and trying to make a difference in the community.<br><br>I also have a deep taste when it comes to cybersecurity and I major in offensive security and forensics. <br><br>I am currently working on an application frontend that manages all your finances and it has all the tools needed whenever finances are mentioned.
-
+A curious guy who builds, breaks and sometimes considering my life`s choices just to understand how things work down to the hardware level.<br></br>Interesting right??  Knowing what happens behind the scenes and understanding it are two different things.<br></br> I am currently working my way from logic gates, understand networking, binaries and how we came about to whole working systems.<br></br>One of my favourite projects is experimenting on an old dell trying to build an infrastructure around it to see what juice is still left on it.<br></br>I am currently learning python, DSA, networking, x86-64, GDB, ghidra, cybersecurity and systems.<br></br>Eventually i may be able to do things like: Understand Operating systems, compilers, do some binary analysis, and some things that may make me hate my life at 1 am. Any of these sound interesting check out some of my repositories and dont forget to leave a star...
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/C34S3_R) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/meshack-wambua-b6420b398) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@C34S3_R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meshackwambua260@gmail.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sleepyhead4k) 
 
