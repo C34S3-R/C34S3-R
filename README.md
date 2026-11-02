@@ -10,10 +10,33 @@
 
 ### 🚀 About Me
 
-A curious guy who builds, breaks and sometimes considering my life`s choices just to understand how things work down to the hardware level. Interesting right??  I am currently working my way from logic gates, understand networking, binaries and how we came about to whole working systems. One of my favourite projects is experimenting on an old 10 year old dell trying to build an infrastructure around it to see what juice is still left on it. Eventually i may be able to do things like: Understand Operating systems, compilers, do some binary analysis, and some things that may make me hate my life at 1 am. Any of these sound interesting check out some of my repositories and dont forget to leave a star...
+A security researcher, cybersecurity enthusiast and an aspiring low-level systems Engineer
 
 🔭 &nbsp;I'm currently working on **A cpu focused, 3d construction pipeline, designed to run on old hardware, that takes reference video or images and converts the objects to 3d versions ready for export to blender.**  
 🌱 &nbsp;I'm currently learning **Reverse Engineering – x86-64 Assembly, GDB, Ghidra and binary analysis for cybersecurity and CPU architecture, memory systems, performance optimization, low-level computer systems to gain more insights about the machines we use**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/meshack-wambua-b6420b398"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/sleepyhead4k"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:wambuameshack007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ### 📊 GitHub Stats
 
